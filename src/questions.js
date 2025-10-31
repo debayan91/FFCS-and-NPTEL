@@ -117,7 +117,7 @@ export const rawQuestions = [
     { assignment: 10, question: "Which of these is the largest source of nitrogen oxides in the atmosphere?", options: ["electricity generation", "mobile sources", "industrial processes", "waste disposal"], answer: "mobile sources" },
     { assignment: 10, question: "'those resources that are currently being used after surveying, quantification and qualification' is a definition of", options: ["potential resources", "actual resources", "reserve resources", "stock resources"], answer: "actual resources" },
     { assignment: 10, question: "'those resources that may be used in the future' is a definition of", options: ["potential resources", "actual resources", "reserve resources", "stock resources"], answer: "potential resources" },
-    { assignment: 10, question: "Low concentration ores come in the category of", options: ["potential resources", "actual resources", "reserve resources", "stock resources"], answer: "stock resources" },
+    { assignment: 10, question: "Low concentration ores come in the category of", options: ["potential resources", "actual resources", "reserve resources", "stock resources"], answer: "reserve resources" },
 
     // Assignment 11
     { assignment: 11, question: "New Delhi can best be categorised as", options: ["administrative town", "industrial town", "transport town", "commercial town"], answer: "administrative town" },
