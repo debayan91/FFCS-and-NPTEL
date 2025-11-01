@@ -20,7 +20,8 @@ function App() {
         { name: 'dip', hasLab: false, theorySlots: 'F1+TF1, F2+TF2' },
         { name: 'nlp', hasLab: false, theorySlots: 'C1+TC1, C2+TC2' },
         { name: 'cloudcomputing', hasLab: false, theorySlots: 'D1+TD1, D2+TD2' },
-        { name: 'machinevision', hasLab: true, theorySlots: 'D1+TD1' }
+        { name: 'machinevision', hasLab: true, theorySlots: 'D1+TD1' },
+        { name: 'calc', hasLab: false, theorySlots: 'C1+TC1' }
     ]);
 
   // Function to check if a new class would clash with selected classes

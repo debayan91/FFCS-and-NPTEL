@@ -1,8 +1,11 @@
 // facultyData.js
 
 const facultyData = {
-
-    // --- Basic Electrical and Electronics Engineering ---
+    calc: {
+        theory: [
+            { slot: "C1+TC1", venue: "MB306", faculty: "DHARANI S", type: "TH" }
+        ]
+    },
     beee: {
         theory: [
             { slot: "F2+TF2", venue: "SJT607", faculty: "MAGESHVARAN R", type: "TH" },
